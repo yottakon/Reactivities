@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace API.Controllers
 {
-    [AllowAnonymous]
+    //[AllowAnonymous]
     [ApiController]
     [Route("api/[controller]")]
     

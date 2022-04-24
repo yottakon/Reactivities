@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Authorization;
 namespace API.Controllers
 {
     //Allow Anonymous will let anyone view a page without authentication
-    [AllowAnonymous]
+    //[AllowAnonymous]
     public class ActivitiesController : BaseApiController
     {
         //The Database context is based on the Database you are connecting to
